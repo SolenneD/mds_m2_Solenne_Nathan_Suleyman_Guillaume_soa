@@ -2,3 +2,4 @@
 
 - s'inscrire
 - se connecter
+- se deconnecter
