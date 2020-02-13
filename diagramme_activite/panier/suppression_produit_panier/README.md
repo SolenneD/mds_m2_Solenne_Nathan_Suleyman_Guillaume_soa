@@ -1,3 +1,3 @@
-# Diagramme d'activité Panier - Consulter panier
+# Diagramme d'activité Panier - Supprimer un produit du panier
 
-![consulter_panier_diagramme_activite](https://user-images.githubusercontent.com/16959583/74380119-46470680-4de9-11ea-9cc2-432379171810.png)
+![suppression_produit_diagramme_activite](https://user-images.githubusercontent.com/32593506/74426923-8d1f1580-4e56-11ea-96f2-1731f71dd845.png)
