@@ -1,8 +1,6 @@
 # Diagramme d'activité - Panier
 
-- rechercher un fournisseur
-- consulter la liste des fournisseurs
-- afficher les détails d'un fournisseur
-- s'abonner à un fournisseur
-- noter un fournisseur
-- signaler un fournisseur
+- Ajouter un produit au panier
+- Consulter le panier
+- Modifier un produit au panier
+- Supprimer un produit au panier
