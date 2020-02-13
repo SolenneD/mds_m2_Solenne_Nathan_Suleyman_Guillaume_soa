@@ -1,4 +1,5 @@
-# Diagramme d'activité Produit - Ajouter un produit
+# Diagramme d'activité Produit - Consulter les produits
 
-![ajouter_produits_diagramme_activite](https://user-images.githubusercontent.com/16959583/74383122-e7848b80-4dee-11ea-8d80-73cbc46c86d9.png)
+![consulter_produits_diagramme_activite](https://user-images.githubusercontent.com/32593506/74427551-9a88cf80-4e57-11ea-9e35-4481c7ddc78d.png)
+
 
